@@ -1,0 +1,18 @@
+{
+  "text": "Finder",
+  "code": "finder",
+  "icon": "nf nf-mdi-apple_finder",
+  "cfg": {
+      "show_code": 1
+  },
+  "items": [
+      {
+          "text": "Favoris",
+          "code": "favourites"
+      },
+      {
+          "text": "Sources",
+          "code": "sources"
+      }
+  ]
+}
