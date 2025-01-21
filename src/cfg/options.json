@@ -1,24 +1,10 @@
-{
-  "cfg": {
-    "show_code": 1,
-    "show_icon": 1,
-    "allow_children": 1,
-    "i18n": "en"
-  },
-  "id_parent": ["appui"],
-  "text": "Finder",
-  "code": "finder",
-  "id_alias": ["plugin", "list", "templates", "option", "appui"],
-  "icon": "nf nf-mdi-apple_finder",
-  "plugin": true,
-  "items": [
+[
     {
-      "text": "Favourites",
-      "code": "favourites"
+        "text": "Favourites",
+        "code": "favourites"
     },
     {
-      "text": "Sources",
-      "code": "sources"
+        "text": "Sources",
+        "code": "sources"
     }
-  ]
-}
+]
